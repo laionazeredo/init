@@ -1,4 +1,4 @@
-![Laion init cover](/Laion init cover.png)
+![Cover](/Laion init cover.png)
 # Laion Azeredo: init
 Here you can find all relevant stuff related to my career and codes.
 Below I tried to get you through some categories of my work.

@@ -4,4 +4,6 @@ Below I tried to get you through some categories of my work.
 
 ### Code Table
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZj8xM7QVkRixqZTyZMYmz-3RUCxJDE4ZIPGPB8-3mKNTcE2Omgn3nE3JXEdv7vVcgFp-VAOZVYQX3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+|Stack|Repos and Content|
+|---|---|
+|Pure React Js (Static Apps)|- Laion Azeredo Developer: A single page app, using static ReactJS and showcasing a resumé - https://laionazeredo.github.io/__laionazeredo__/|

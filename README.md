@@ -15,10 +15,8 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 ## Quick Links
 
   - [FrontEnd](#frontend)
-  - [BackEnd](#backend)
   - [FullStack apps](#fullstack-apps)
   - [DataBase Modeling](#database-modeling)
-  - [DataSciece and Machine Learning](#datasciece-and-machine-learning)
   - [Community](#community)
   - [Talks](#talks)
 
@@ -27,10 +25,9 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 |Stack|Implementation|Details|When|Links|
 |---|---|---|---|---|
 |Pure React Js (Static Apps)|Single Page App|Laion Azeredo Developer: A single page app, using static ReactJS and showcasing a resumÃ©|2020|[https://laionazeredo.github.io/__laionazeredo__/](https://laionazeredo.github.io/__laionazeredo__/) |
-|Vanilla JS|Form Validation using JS|This project show a job applying form with some validations about name, phone number and social media profiles. After that, the page sends the result to the backend via JSON.|2020|https://github.com/laionazeredo/vanillajs_form_validations_and_submission |
+|Vanilla JS|Form Validation using JS|This project show a job applying form with some validations about name, phone number and social media profiles. After that, the page sends the result to the backend via JSON.|2020|https://github.com/laionazeredo/vanillajs_form_validations_and_submission|
+|React JS + Services (Serverless)|TesseReact|An OCR tool made with React and Tesseract JS|2020|https://github.com/laionazeredo/tessereact|
 
-
-## BackEnd
 
 ## FullStack apps
 |Stack|Implementation|Details|When|Links|
@@ -43,7 +40,6 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 |---|---|---|---|---|
 |MySQL or MariaDB or SQLite|Modelagem de Banco de Dados Relacional - um exercício.|Database model of a general vehicles database based on requirements from a fiction client|2020|https://github.com/laionazeredo/database_modeling_vehicle_db_example|
 
-## DataSciece and Machine Learning
 
 ## Community
 

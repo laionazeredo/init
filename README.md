@@ -1,6 +1,6 @@
 ![cover](Laion%20init%20cover.png)
 
-# Laion Azeredo: init 
+# Laion Azeredo: init. 
 (Developing since 2018)
 Here you can find all relevant stuff related to my career and codes.
 Below I tried to get you through some categories of my work. 
@@ -25,7 +25,7 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 |Stack|Implementation|Details|When|Links|
 |---|---|---|---|---|
 |React JS + Services (Serverless)|TesseReact|An OCR tool made with React and Tesseract JS|2020|https://github.com/laionazeredo/tessereact|
-|Pure React Js (Static Apps)|Single Page App|Laion Azeredo Developer: A single page app, using static ReactJS and showcasing a resum√©|2020|[https://laionazeredo.github.io/__laionazeredo__/](https://laionazeredo.github.io/__laionazeredo__/) |
+|Pure React Js (Static Apps)|Single Page App|Laion Azeredo Developer: A single page app, using static ReactJS and showcasing a resum√É¬©|2020|[https://laionazeredo.github.io/__laionazeredo__/](https://laionazeredo.github.io/__laionazeredo__/) |
 |Vanilla JS|Form Validation using JS|This project show a job applying form with some validations about name, phone number and social media profiles. After that, the page sends the result to the backend via JSON.|2020|https://github.com/laionazeredo/vanillajs_form_validations_and_submission|
 
 
@@ -40,7 +40,7 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 ## DataBase Modeling
 |Stack|Implementation|Details|When|Links|
 |---|---|---|---|---|
-|MySQL or MariaDB or SQLite|Modelagem de Banco de Dados Relacional - um exercÌcio.|Database model of a general vehicles database based on requirements from a fiction client|2020|https://github.com/laionazeredo/database_modeling_vehicle_db_example|
+|MySQL or MariaDB or SQLite|Modelagem de Banco de Dados Relacional - um exerc√≠cio.|Database model of a general vehicles database based on requirements from a fiction client|2020|https://github.com/laionazeredo/database_modeling_vehicle_db_example|
 
 
 ## Community
@@ -52,8 +52,8 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 ## Talks
 |Subject|Where|When|Reference|
 |---|---|---|---|
-|AutoML - O que È, pra que serve e isso vai roubar seu emprego? (10o PyDataPOA)|#10 PyData POA - Porto Alegre, Brasil|02/2020|https://www.youtube.com/watch?v=ddIsB4-ra6A|
-|M·quinas Podem Criar? - Como o aprendizado de m·quina est· mudando o cen·rio de operaÁ„o das empresas e nossas vidas|Papo de Mentor - Novo Hamburgo, Brasil|11/2019|[Link to the presentation](https://docs.google.com/presentation/d/e/2PACX-1vRmglIE9XdXPqj9ePZuyv1jeeNhzdAMSeY_9-HRkz_r13b7zQsZw0FAGKCNFW9vCc_bMpIbGZ_lMPCA/pub?start=false&loop=false&delayms=3000)|
-|InteligÍncia Artificial no teu dia a dia - Como esta tendÍncia tecnolÛgica j· est· impactando os teus negÛcios|CDL - Est‚ncia Velha, Brasil |10/2019|[Link to the presentation](https://docs.google.com/presentation/d/e/2PACX-1vQk7AvYQWkdRt2BKdFI0Yj_fixyi661LDnxZBEp6FPGxVRYW-iwMCvSVDlHNQIjPJ9r1Ly7Y2GtrZbB/pub?start=false&loop=false&delayms=3000)|
+|AutoML - O que √©, pra que serve e isso vai roubar seu emprego? (10o PyDataPOA)|#10 PyData POA - Porto Alegre, Brasil|02/2020|https://www.youtube.com/watch?v=ddIsB4-ra6A|
+|M√°quinas Podem Criar? - Como o aprendizado de m√°quina est√° mudando o cen√°rio de opera√ß√£o das empresas e nossas vidas|Papo de Mentor - Novo Hamburgo, Brasil|11/2019|[Link to the presentation](https://docs.google.com/presentation/d/e/2PACX-1vRmglIE9XdXPqj9ePZuyv1jeeNhzdAMSeY_9-HRkz_r13b7zQsZw0FAGKCNFW9vCc_bMpIbGZ_lMPCA/pub?start=false&loop=false&delayms=3000)|
+|Intelig√™ncia Artificial no teu dia a dia - Como esta tend√™ncia tecnol√≥gica j√° est√° impactando os teus neg√≥cios|CDL - Est√¢ncia Velha, Brasil |10/2019|[Link to the presentation](https://docs.google.com/presentation/d/e/2PACX-1vQk7AvYQWkdRt2BKdFI0Yj_fixyi661LDnxZBEp6FPGxVRYW-iwMCvSVDlHNQIjPJ9r1Ly7Y2GtrZbB/pub?start=false&loop=false&delayms=3000)|
 
 

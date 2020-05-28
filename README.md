@@ -24,15 +24,17 @@ MySQL, MongoDb, Python, Django, Flask, Flacon, NodeJs, ExpressJs, ReactJs
 ## FrontEnd
 |Stack|Implementation|Details|When|Links|
 |---|---|---|---|---|
+|React JS + Services (Serverless)|TesseReact|An OCR tool made with React and Tesseract JS|2020|https://github.com/laionazeredo/tessereact|
 |Pure React Js (Static Apps)|Single Page App|Laion Azeredo Developer: A single page app, using static ReactJS and showcasing a resumé|2020|[https://laionazeredo.github.io/__laionazeredo__/](https://laionazeredo.github.io/__laionazeredo__/) |
 |Vanilla JS|Form Validation using JS|This project show a job applying form with some validations about name, phone number and social media profiles. After that, the page sends the result to the backend via JSON.|2020|https://github.com/laionazeredo/vanillajs_form_validations_and_submission|
-|React JS + Services (Serverless)|TesseReact|An OCR tool made with React and Tesseract JS|2020|https://github.com/laionazeredo/tessereact|
+
 
 
 ## FullStack apps
 |Stack|Implementation|Details|When|Links|
 |---|---|---|---|---|
 |DB: SQLite, BEnd: Node + Express, FEnd: React|My Tattoo Collection|App for recording all tattoos you wanna do in your body, built with React, Express and SQLite.|2020|https://github.com/laionazeredo/my-tattoo-collection-react-sqlite-app|
+|BEnd: Python + Flask, FEnd: Jinja|I can see your image|App for magically read text encoded in your images. Just upload one and see the magic happen, made with Python, Flask and PyTesseract|2020|https://github.com/laionazeredo/py_ocr_flask_app|
 
 
 ## DataBase Modeling
